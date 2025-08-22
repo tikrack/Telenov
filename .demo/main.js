@@ -1,0 +1,2 @@
+const Telenov = require("../index")
+
