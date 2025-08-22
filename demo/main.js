@@ -8,7 +8,7 @@ const app = express();
 app.use(bodyParser.json());
 
 app.post("/webhook", (req, res) => {
-    console.log(req.body);
+    console.log(req);
     res.sendStatus(200);
 });
 
