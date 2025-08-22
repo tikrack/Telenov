@@ -1,2 +1,1 @@
-const Telenov = require("../index")
-
+const { TelegramClient } = require("../index");
