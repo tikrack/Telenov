@@ -1,0 +1,21 @@
+{
+  "name": "telenov",
+  "version": "1.0.0",
+  "description": "Telenov is a very interesting and easy library for working with Telegram APIs in nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikrack/Telenov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tikrack/Telenov/issues"
+  },
+  "homepage": "https://github.com/tikrack/Telenov#readme"
+}
